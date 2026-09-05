@@ -1,0 +1,11 @@
+{
+  "android": {
+    "versionCode": 3,
+    "versionName": "1.0.0",
+    "url": "https://github.com/fabiopinhosword/murmur-releases/releases/download/v1.0.0/murmur-1.0.0.apk",
+    "sha256": "",
+    "size": 0
+  },
+  "macos": { "versionName": "1.0.0", "url": "" },
+  "notes": "Initial release."
+}
