@@ -3,7 +3,7 @@
     "versionCode": 4,
     "versionName": "1.1.0",
     "url": "https://github.com/fabiopinhosword/murmur-releases/releases/download/v1.1.0/murmur-1.1.0-build4.apk",
-    "sha256": "deb9b554bbec9733e48e581e3d623aadff99a847a76693f5ac305732cb97aaa7",
+    "sha256": "5de06cd96b1c84ece2f533e32f2d921742d56a4617d24fab0f3e96cc8b0a7c40",
     "size": 57026937
   },
   "notes": "Permissions are now asked for up front, updates arrive through the app, and the Start/Stop card shows a live waveform."
